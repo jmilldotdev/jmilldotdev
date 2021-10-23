@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jmilldotdev&layout=compact)](https://github.com/jmilldotdev/github-readme-stats)
+<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmilldotdev&layout=compact&theme=dark&title_color=58a6ff&icon_color=58a6ff&text_color=58a6ff&bg_color=0D1117&hide_border=true&langs_count=6"/>
 
 ```
 [Just adding to the pile.](https://www.youtube.com/watch?v=1gpKYnRdf0A#t=2m02s)
