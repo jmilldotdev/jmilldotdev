@@ -2,7 +2,7 @@
 
 ```
 jmill, 29, Richmond, VA
-React, data, bots, notes.
+Number shaman, bot whisperer.
 Adding to the pile.
 ```
 
