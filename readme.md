@@ -1,7 +1,7 @@
 <img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmilldotdev&layout=compact&theme=dark&title_color=58a6ff&icon_color=58a6ff&text_color=58a6ff&bg_color=0D1117&hide_border=true&langs_count=6&hide=jupyter%20notebook,TeX"/>
 
 ```
-jmill, 30, Richmond, VA
+jmill.
 Number shaman, bot whisperer.
 Adding to the pile.
 ```
